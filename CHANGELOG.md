@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.1.0
+
+* Updated SDK constraints to support Flutter 3.5.1 and above
+* Removed Flutter version constraint for broader compatibility
+* Improved package stability and compatibility
+* Updated documentation for better clarity
+
 ## 1.0.0
 
 * Initial stable release
