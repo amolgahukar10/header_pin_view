@@ -15,8 +15,6 @@ and the Flutter guide for
 
 A Flutter package that provides a customizable header pinned view with support for persistent headers and custom body content. This package allows you to create scrollable views with pinned headers that stay at the top while the content scrolls underneath.
 
-![Header Pin View Demo](screenshots/demo.gif)
-
 ## Features
 
 - 📌 Sticky header that pins to the top while scrolling
@@ -33,12 +31,9 @@ A Flutter package that provides a customizable header pinned view with support f
   <img src="screenshots/screenshot3.png" width="250" alt="Screenshot 3" hspace="10"/>
 </p>
 
-### Demo Video
+### Demo
 
-<video width="100%" controls>
-  <source src="screenshots/recording.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
+> **Note**: For HD video demo, check out our [demo video on GitHub releases](https://github.com/amolgahukar10/header_pin_view/blob/main/screenshots/recording.webm)
 
 ## Getting started
 
@@ -97,4 +92,4 @@ HeaderPinnedView(
 
 For more examples and detailed usage, check out the `/example` directory in the repository.
 
-For issues and feature requests, please file them on the [GitHub repository](https://github.com/YOUR_USERNAME/header_pin_view/issues).
+For issues and feature requests, please file them on the [GitHub repository](https://github.com/amolgahukar10/header_pin_view/issues).
