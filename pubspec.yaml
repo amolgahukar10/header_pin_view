@@ -1,7 +1,7 @@
 name: header_pin_view
 description: A Flutter package that provides a customizable header pinned view with support for persistent headers and custom body content.
 version: 1.0.0
-homepage: https://github.com/YOUR_USERNAME/header_pin_view
+homepage: https://github.com/amolgahukar10/header_pin_view
 
 environment:
   sdk: ^3.7.2
